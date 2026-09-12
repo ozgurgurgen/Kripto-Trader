@@ -1,0 +1,6 @@
+{
+  "name": "KriptoBot Pro",
+  "description": "Profesyonel kripto al-sat ve algoritmik bot terminali; En büyük 500 coin canlı piyasa tarayıcısı, 20+ teknik indikatör, 5 yıllık veriye dayalı AI stratejileri, yerel LLM entegrasyonu, TradingView grafikleri, backtest ve paper trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
